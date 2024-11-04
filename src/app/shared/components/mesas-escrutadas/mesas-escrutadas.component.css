@@ -1,0 +1,9 @@
+.cont-progress-bar {
+  max-width: 100%;
+}
+
+@media (min-width: 650px) {
+  .cont-progress-bar {
+    max-width: 450px;
+  }
+}

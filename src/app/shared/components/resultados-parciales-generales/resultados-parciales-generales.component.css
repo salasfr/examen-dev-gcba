@@ -1,0 +1,14 @@
+.cont-candidato {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cont-datos-candidato {
+  display: flex;
+  align-items: center;
+}
+
+.cont-datos-candidato div {
+  margin-left: 5px;
+}
